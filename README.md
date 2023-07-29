@@ -12,5 +12,6 @@ in this plot we show price across the sum of sentiment in each day.(negetive num
 in this part we compine both data's(price data and sentiment data) after it we implanted LSTM model on it.
 the results of model was not better than first model because Twitter data was not available for all days.
 but we figure out a process: we the price is in a directionless market sentiment of twitters plays an important role in the future of the market.
-![price-with-sentiment](https://github.com/mohmd21x/Bitcoin-Price-Prediction-By-Twitter/assets/81675003/761ec85a-cfa7-41e3-9eae-15e18875a0d5)
+![price](https://github.com/mohmd21x/Bitcoin-Price-Prediction-By-Twitter/assets/81675003/4a2872ff-4641-4531-910d-a4ccce391ac1)
+
 
